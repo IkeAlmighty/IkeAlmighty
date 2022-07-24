@@ -14,15 +14,15 @@ I would like to build experiences that interface with real life, as opposed to s
 
 You can see my favorite projects stickied to my profile below. Here is quick summary of each:
 
-### [Take Ike's Stuff]()
+### [Take Ike's Stuff](https://github.com/ikealmighty/takeikesstuff.git)
 
 Sort of like a digital give-away or garage sale, takeikesstuff is a web app I built to help me transition into a more minimalist life style while also supporting my friends in need to stuff. _Built with NextJS, JWT, AWS S3, Mongodb, and TailwindCSS._
 
-### [Clock In/Out]()
+### [Clock In/Out](https://github.com/ikealmighty/clockinout.git)
 
 Clock In/Out is a simple time recording app for those of us who don't want to track their hours on paper. _Built with NextJs, Auth0, Mongodb, and TailwindCSS._
 
-### [Yates Creative]()
+### [Yates Creative](https://github.com/ikealmighty/yatescreative.git)
 
 Yates Creative is the home to my creative pursuits. It includes a portfolio, some poetry, pictures of my latte art, and whatever else comes my mind. _Built with NextJS, Mongodb, AWS S3, and TailwindCSS._
 
