@@ -30,4 +30,4 @@ Yates Creative is the home to my creative pursuits. It includes a portfolio, som
 
 Please, if you're hiring or would like to chit chat, shoot me a message on my [LinkedIn](https://www.linkedin.com/in/isaac-yates-572441116/)
 
-![self portrait](selfportraits\2024\PXL_20240804_142643574.jpg)
+![self portrait](selfportraits/2024/PXL_20240804_142643574.jpg)
