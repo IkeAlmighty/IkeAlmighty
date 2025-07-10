@@ -1,16 +1,24 @@
 # Isaac Yates
 
-Web Developer | Barista
-
-## Education
-
--   3 years of Computer Science at the University of Oklahoma
--   Currently Enrolled in EdEx Web Development Bootcamp
--   Mostly Self Taught
+Web Developer | Barista | Scone Dealer
 
 ## Technical Overview
 
-Over the last couple years since leaving college I've been learning ReactJS, NextJS, Svelte & Sveltekit, ExpressJS, MongoDb, and the basics of HTTP. I've also worked with TailwindCSS, Bootstrap, and SASS. I have passing familiarity with Django, Flask, Docker, and Docker-Compose. For my personal projects, I deploy to Vercel and host images on AWS S3 or Blackblaze. I've become a big fan of fullstack Javascript, but I'm looking to get involved in fullstack, frontend, or backend web development.
+### Web Technologies & Frameworks:
+
+- React & NextJS
+- Svelte & Sveltekit
+- ExpressJS
+- Mongodb, Mongoose ORM, PSQL, Sequelize ORM
+- TailwindCSS, Bootstrap, SASS
+
+### Languages:
+
+- C++
+- C
+- Java
+- Python
+- Javascript & Typescript
 
 ## Philosophy
 
@@ -22,15 +30,17 @@ You can see my favorite projects stickied to my profile below. Here is quick sum
 
 ### [scones.ike.coffee](https://github.com/ikealmighty/scones.ike.coffee.git)
 
-I created this website for my side business of selling scones in South Minneapolis. It is my first project to successfully integrate Stripe payment API, and I hope to eventually grow it into a full blown custom POS for a coffee shop. I've also included a community board for users to upload images that I moderate, as well as an automated email alert system to let me know when someone places an order. The website has held up under a little bit of stress, as I make anywhere from $50 to $200 a month from it.
+I created this website for my side business of selling scones in South Minneapolis. It is my first project to successfully integrate Stripe payment API, and I hope to eventually grow it into a full blown custom POS for a coffee shop. I integrated TWILIO API and created an administrator facing interface for recieving as well as sending mass texts. I also created an automated email alert system to let me know when someone places an order. The website has held up under a little bit of stress, as I make anywhere from $50 to $200 a month from it.
 
-### [sorcerersoup.com](https://github.com/ikealmighty/sorcerersoup.git)
+### [Social Media Post Generator](https://github.com/ikealmighty/flyer-creator.git)
 
-A long term passion project, Sorcerer Soup is my take on what I call a Computer Assisted Role Playing Game, or CARPG. The includes a tool for generating spells from a simple templating language that I designed, and also has a short application wizard for creating characters. It's an ongoing project that I intend to add many interesting features to!
+I made this CLI tool so that I could easily create social media flyers for my scone business. It is a small an simply tool that makes my life easier, which is why I am proud of it.
 
-### [Sweet Treats](https://github.com/ikealmighty/sweet-treats.git)
+### [Sprout Swap](https://github.com/musserdn/SproutSwap)
 
-Sweet Treats is a group project that I collaborated with other Edex Bootcamp students on. Although I executed the same idea more fully in scones.ike.coffee on my own, sweet treats was my first team project in which I utilized git flow and pull requests.
+SproutSwap is a plant-sharing app that lets users add and save plants to their virtual garden, connect with fellow plant enthusiasts, and browse each other's gardens.
+
+This was a group project that I worked on during the final weeks of the Edex Fullstack Web Development bootcamp. We used a combination of GraphQL and regular old REST design, and integrated a couple third party APIs (github API as well as perenual.com) to create an interesting and dynamic app.
 
 ## Contact / Hire Me
 
