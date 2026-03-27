@@ -41,13 +41,11 @@ I created this website for my side business of selling scones in South Minneapol
 
 ### [Social Media Post Generator](https://github.com/ikealmighty/flyer-creator.git)
 
-I made this CLI tool so that I could easily create social media flyers for my scone business. It is a small an simply tool that makes my life easier, which is why I am proud of it.
+I made this CLI tool so that I could easily create social media flyers for my scone business. It is a small and simple tool that makes my life easier, which is why I am proud of it.
 
-### [Sprout Swap](https://github.com/musserdn/SproutSwap)
+### [gift-economy.app](https://github.com/IkeAlmighty/gift-economy)
 
-SproutSwap is a plant-sharing app that lets users add and save plants to their virtual garden, connect with fellow plant enthusiasts, and browse each other's gardens.
-
-This was a group project that I worked on during the final weeks of the Edex Fullstack Web Development bootcamp. We used a combination of GraphQL and regular old REST design, and integrated a couple third party APIs (github API as well as perenual.com) to create an interesting and dynamic app.
+An ongoing GPL project I created to help communities facitilate giving among one another. Similar to the BuyNothing Project, but with an emphasis on decentralized architecture and supply chain automation. The demo version can be viewed at [here](https://gift-economy.onrender.com/login).
 
 ## Contact Me
 
