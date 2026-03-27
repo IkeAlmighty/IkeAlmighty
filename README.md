@@ -33,7 +33,7 @@ I would like to build experiences that interface with real life, as opposed to s
 You can see my favorite projects stickied to my profile below. Here is quick summary of each:
 ### [esm-di](https://github.com/IkeAlmighty/esm-di)
 
-A lightweight, Proxy-based dependency injection system for ESM. `esm-di` allows functions to access their dependencies dynamically via this.dependencies without the "prop-drilling" nightmare of passing services through every single function call.
+A lightweight, Proxy-based dependency injection package for ESM. `esm-di` allows functions to access their dependencies dynamically via this.dependencies without the "prop-drilling" nightmare of passing services through every single function call.
 
 ### [scones.ike.coffee](https://github.com/ikealmighty/scones.ike.coffee.git)
 
