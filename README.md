@@ -4,8 +4,10 @@ Web Developer | Barista | Scone Dealer
 
 ## Technical Overview
 
-### Web Technologies & Frameworks:
+### Technologies & Frameworks:
 
+- Azure Devops
+- Terraform
 - React & NextJS
 - Svelte & Sveltekit
 - ExpressJS
@@ -14,11 +16,13 @@ Web Developer | Barista | Scone Dealer
 
 ### Languages:
 
-- C++
+- Bourn Again Shell (Bash)
+- Powershell
 - C
 - Java
 - Python
 - Javascript & Typescript
+- HTML/CSS
 
 ## Philosophy
 
@@ -42,6 +46,6 @@ SproutSwap is a plant-sharing app that lets users add and save plants to their v
 
 This was a group project that I worked on during the final weeks of the Edex Fullstack Web Development bootcamp. We used a combination of GraphQL and regular old REST design, and integrated a couple third party APIs (github API as well as perenual.com) to create an interesting and dynamic app.
 
-## Contact / Hire Me
+## Contact Me
 
-Please, if you're hiring or would like to chit chat, shoot me a message on my [LinkedIn](https://www.linkedin.com/in/isaac-yates-572441116/) or email me at isaacyates7@gmail.com
+Please, if you would like to chit chat, shoot me a message on my [LinkedIn](https://www.linkedin.com/in/isaac-yates-572441116/) or email me at isaacyates7@gmail.com
