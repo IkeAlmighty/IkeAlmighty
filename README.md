@@ -1,6 +1,6 @@
 # Isaac Yates
 
-Web Developer | Barista | Scone Dealer
+Junior Devops Engineer | Barista | Scone Dealer
 
 ## Technical Overview
 
