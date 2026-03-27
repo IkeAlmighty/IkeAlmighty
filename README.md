@@ -43,7 +43,7 @@ I created this website for my side business of selling scones in South Minneapol
 
 I made this CLI tool so that I could easily create social media flyers for my scone business. It is a small and simple tool that makes my life easier, which is why I am proud of it.
 
-### [gift-economy.app](https://github.com/IkeAlmighty/gift-economy)
+### [gifteconomy.app](https://github.com/IkeAlmighty/gift-economy)
 
 An ongoing GPL project I created to help communities facitilate giving among one another. Similar to the BuyNothing Project, but with an emphasis on decentralized architecture and supply chain automation. The demo version can be viewed at [here](https://gift-economy.onrender.com/login).
 
