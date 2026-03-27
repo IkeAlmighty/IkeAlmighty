@@ -48,4 +48,4 @@ This was a group project that I worked on during the final weeks of the Edex Ful
 
 ## Contact Me
 
-Please, if you would like to chit chat, shoot me a message on my [LinkedIn](https://www.linkedin.com/in/isaac-yates-572441116/) or email me at isaacyates7@gmail.com
+Please, if you would like to chit chat, shoot me a message on my [LinkedIn](https://www.linkedin.com/in/ike-yates-572441116/) or email me at isaacyates7@gmail.com
