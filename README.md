@@ -1,4 +1,4 @@
-# Isaac Yates
+# ike Yates
 
 Junior Devops Engineer | Barista | Scone Dealer
 
